@@ -3,7 +3,7 @@ import './App.css';
 function App() {
   return (
   <>
-   <div>
+   <div className='HeroText'>
       <h1>My first React Router Dom page V6 version</h1>
     </div>
   </>
