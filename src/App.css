@@ -3,11 +3,33 @@
  justify-content: center;
  flex-direction: column;
  text-align: center;
+ background-color: rgb(32 35 42);
+ color: aqua;
 }
 
 hr {
   width: 50%;
   color: gray;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+  background-color: rgb(173, 181, 187);
+}
+
+nav a {
+  margin: 10px;
+  padding: 5px;
+  text-decoration: none;
+  background-color: rgb(80, 75, 75);
+  box-shadow: 0px 4px 4px 0px rgba(25, 27, 29, 0.452);
+  color: white;
+}
+
+nav a:hover {
+  box-shadow: none;
+  color: aqua;
 }
 
 
