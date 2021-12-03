@@ -7,7 +7,6 @@ function App() {
    <div className='HeroText'>
       <h1>My first React Router Dom page V6 version</h1>
       <hr />
-    
     </div>
     <nav>
         <Link to="/Home">Home</Link> 
