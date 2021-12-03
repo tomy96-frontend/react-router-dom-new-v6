@@ -9,10 +9,10 @@ function App() {
       <hr />
     </div>
     <nav>
-        <Link to="/Home">Home</Link> 
-        <Link to="/About">About</Link>
-        <Link to="/Features">Features</Link>
-        <Link to="/Contact">Contact</Link>
+        <Link to="/home">Home</Link> 
+        <Link to="/about">About</Link>
+        <Link to="/features">Features</Link>
+        <Link to="/contact">Contact</Link>
       </nav>
   </>
   );
