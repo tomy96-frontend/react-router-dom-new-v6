@@ -7,11 +7,12 @@ function App() {
    <div className='HeroText'>
       <h1>My first React Router Dom page V6 version</h1>
       <hr />
-      <nav>
+    
+    </div>
+    <nav>
         <Link to="/Home">Home</Link> 
         <Link to="/About">About</Link>
       </nav>
-    </div>
   </>
   );
 }
