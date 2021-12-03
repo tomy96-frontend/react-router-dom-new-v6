@@ -12,6 +12,8 @@ function App() {
     <nav>
         <Link to="/Home">Home</Link> 
         <Link to="/About">About</Link>
+        <Link to="/Features">Features</Link>
+        <Link to="/Contact">Contact</Link>
       </nav>
   </>
   );
