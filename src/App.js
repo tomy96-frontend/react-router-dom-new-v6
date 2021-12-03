@@ -14,7 +14,7 @@ function App() {
         <Link to="/features">Features</Link>
         <Link to="/contact">Contact</Link>
       </nav>
-      <Outlet />
+      <Outlet/>
   </>
   );
 }
